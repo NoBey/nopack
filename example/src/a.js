@@ -1,0 +1,1 @@
+document.write('我是a.js文件'+'</br>');
